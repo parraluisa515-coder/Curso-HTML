@@ -1,0 +1,37 @@
+Actividad
+
+defíneme para que sirve cada comando
+
+git init - crea un repositorio desde cero  ✔
+git add . - agrega todos los archivos ✔
+git commit -m "" - guarda los cambios con descripcion ✔
+git push - sube cambios ✔
+git Branch - lista ramas  ✔
+git checkout - tiene tres funcionalidades (cambia de rama ✔  / crea una nueva rama ✔ / eliminar archivos ) ✔
+git Branch nombre_rama - crea una nueva rama ✔
+git switch - cambia de ramas ✔
+git log - muestra todos los commits ✔
+git pull - trae cambios ✔ - 
+git merge - une otra rama con la actual ✔
+git clone - descarga un proyecto existente ✔ -
+git status - te dice que archivos cambiaste o subiste  ✔ 
+git restore -staged elimina los archivos subidos a el area de preparacion ✔ -
+
+--------------------------------------------------------------------------------------------------------------------------
+Actividad final
+
+1- crea una nueva rama ___________ ✔
+2 - crea un nuevo archivo .txt ✔
+4 - me muestras los archivos subidos ✔
+5 -  lo comiteas git commit -m ✔
+6 - subes los cambios ✔
+7 - me listas todas las ramas ✔
+8 - cambias a la rama main ✔
+9 - me muestras todos los comits ✔
+---------------------------------------------
+10 - haces un merge desde main para la rama que creas 
+---------------------------------------------------------------------------
+ultima 
+- cambiar de rama main
+- hacer un merge  / git merge ejemplo
+- subes los cambios

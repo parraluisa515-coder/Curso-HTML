@@ -1,0 +1,26 @@
+ACTIVIDAD HTML
+
+1 Index.html
+2 vas a colocar la estructura de HTML 
+3 vas a elegir el tema que quieras y en el head le pones el titulo a la pagina referente a el tema
+4 vas a crear un titulo <h1>
+5 dar una descripción breve del tema que elgigas <p>
+
+-----------------------------------------------------------------
+
+6 link de una pagina de gatos
+7 un sub titulo de razas de gatos
+8 hacer una lista de mínimo 6 razas de gatos 
+9 vas a colocar una imagen de gato
+ ------------------------------------------
+10 tabla 2 columnas 
+raza de gato blanco -  raza de gato negro
+5
+
+------------------------------------------------------------
+11 vas a hacer un formulario con los siguientes parámetros
+- donde lo primerp sea un input de ingrese el nombre del gato tipo texto
+-  ingrese la contraseña
+- ingrese un correo
+- vas a hacer el botón d enviar
+- vas a hacer una lista de valores con tres tipos de gatos
